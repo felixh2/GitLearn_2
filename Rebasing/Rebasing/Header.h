@@ -16,11 +16,12 @@
 // commit 14
 // commit 15
 // commit 16 - release
-<<<<<<< HEAD
+
 	// prog 1
 	// prog 2
-=======
+	// prog 3 
+
 // commit 17
 // commit 18
 // commit 19 
->>>>>>> master
+
